@@ -38,6 +38,8 @@ El proyecto de esta evaluacion tiene como objetivo realizar diferentes modelos d
                 <df_travel_test_50>
                 <df_travel_test_60.csv>
                 <df_travel insurance.csv>
+        <graficas>
+            <heatmap.png>
         <regresion_lineal>
             <Pair_ML1_Intro.ipynb>
             <Pair_ML2_Test_Estadisticos.ipynb>
